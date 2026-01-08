@@ -1,1 +1,1 @@
-[![Typing SVG](https://readme-1acmhngjc-arafatillas-projects.vercel.app)](https://github.com/arafatilla)
+![Typing SVG](https://readmesvg.vercel.app/api/svg)
