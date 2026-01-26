@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋! Hey there 👋<br>I am Saleh Arafat, software engineer / UI/UX , AI enthusiast , Mobile dev</h1>
+<h1 align="left"> Hey there! 👋<br>I am Saleh Arafat, software engineer / UI/UX , AI enthusiast , Mobile dev</h1>
 
 ###
 
