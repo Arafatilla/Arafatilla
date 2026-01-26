@@ -1,6 +1,6 @@
 <div align="center">
   
-# Hi 👋! My name is Hey there 👋
+# Hey there! 👋
 ## I am Saleh Arafat, software engineer / UI/UX, AI enthusiast, Mobile dev
 
 </div>
